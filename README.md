@@ -26,10 +26,3 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/rajat-malvi" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
-<div style="display: flex; align-item:center;">
-<p style="margin:0px 10px 0px 0px  "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-malvi&" alt="Rajat Malviya" /></p>
-
-</div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat-malvi&show_icons=true&locale=en" alt="Rajat Malviya" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat-malvi" alt="Rajat Malviya" /></a></p>
